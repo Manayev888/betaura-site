@@ -48,6 +48,8 @@
   <p>Инновационный Telegram-бот для ставок с ИИ-аналитикой.</p>
   <p>Присоединяйся, зарабатывай и управляй своим капиталом умнее!</p>
   <a href="https://t.me/BetAuraBot" class="button">Запустить бота</a>
-  <footer>© 2025 BetAura AI. Все права защищены.</footer>
+  <footer>© 2025 BetAura AI. 
+    Все права защищены.</footer>
 </body>
 </html>
+<meta name="enot" content="2ceefad1" />
