@@ -1,12 +1,97 @@
-<!DOCTYPE html>enot-domain-conform-text
+<!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <title>BetAuraAI</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BetAura AI</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, sans-serif;
+      background: linear-gradient(135deg, #0f0f1f, #1b1b38);
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      padding: 40px 20px;
+    }
+    header h1 {
+      font-size: 2.5em;
+      background: linear-gradient(90deg, #00ffe5, #ff00cc);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #bbb;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 28px;
+      font-size: 1em;
+      color: #fff;
+      background: linear-gradient(90deg, #ff00cc, #00ffe5);
+      border-radius: 30px;
+      text-decoration: none;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+      transition: transform 0.2s ease;
+    }
+    .btn:hover {
+      transform: scale(1.05);
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    section h2 {
+      font-size: 2em;
+      margin-bottom: 15px;
+      background: linear-gradient(90deg, #00ffe5, #ff00cc);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    section p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      color: #ddd;
+    }
+    footer {
+      background: #0f0f1f;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
 </head>
 <body>
-    <h1>BetAuraAI — умный бот для ставок</h1>
-    <p>Здесь будет подключена система оплаты через Енот.</p>
+  <header>
+    <h1>BetAura AI</h1>
+    <p>Умные прогнозы на спорт с помощью искусственного интеллекта</p>
+    <a href="https://t.me/BetAuraAI" class="btn">Перейти в Telegram</a>
+  </header>
+
+  <section>
+    <h2>О проекте</h2>
+    <p>
+      BetAura AI — это современный AI-бот, который анализирует спортивные события и помогает принимать взвешенные решения. Мы используем передовые алгоритмы машинного обучения, чтобы повысить точность прогнозов.
+    </p>
+  </section>
+
+  <section>
+    <h2>Преимущества</h2>
+    <p>
+      ⚡ Автоматические прогнозы<br>
+      📊 Аналитика 24/7<br>
+      🌍 Два языка — русский и английский<br>
+      💰 Монетизация через подписку и партнёрки
+    </p>
+  </section>
+
+  <footer>
+    © 2025 BetAura AI. Все права защищены.
+  </footer>
 </body>
 </html>
-enot-domain-conform-text
